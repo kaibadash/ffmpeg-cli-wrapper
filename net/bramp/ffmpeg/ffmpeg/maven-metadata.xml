@@ -3,9 +3,11 @@
   <groupId>net.bramp.ffmpeg</groupId>
   <artifactId>ffmpeg</artifactId>
   <versioning>
+    <release>0.6.4-kaibadash</release>
     <versions>
       <version>0.6.3-SNAPSHOT</version>
+      <version>0.6.4-kaibadash</version>
     </versions>
-    <lastUpdated>20200218023216</lastUpdated>
+    <lastUpdated>20200218024848</lastUpdated>
   </versioning>
 </metadata>
